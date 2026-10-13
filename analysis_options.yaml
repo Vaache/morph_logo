@@ -1,0 +1,11 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  exclude:
+    - build/**
+
+linter:
+  rules:
+    constant_identifier_names: false
+    prefer_single_quotes: true
+    require_trailing_commas: true

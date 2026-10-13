@@ -1,0 +1,15 @@
+.dart_tool/
+build/
+pubspec.lock
+pubspec_overrides.yaml
+.github/
+doc/
+tool/
+test/media/
+example/build/
+example/.dart_tool/
+example/pubspec.lock
+example/pubspec_overrides.yaml
+.idea/
+*.iml
+.DS_Store
