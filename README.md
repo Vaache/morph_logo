@@ -9,8 +9,8 @@ colour, and the dots dissolve into the real logo. Made for splash screens.
 
 | | |
 | :---: | :---: |
-| ![Tour logo assembling from dots](https://raw.githubusercontent.com/Vaache/morph_logo/main/doc/media/tour.gif) | ![Varordakan logo assembling from dots](https://raw.githubusercontent.com/Vaache/morph_logo/main/doc/media/varordakan.gif) |
-| Logo: [Tour](https://jointour.am/login) | Logo: [Varordakan](https://varordakan.am) |
+| ![Join Tour logo assembling from dots](https://raw.githubusercontent.com/Vaache/morph_logo/main/doc/media/tour.gif) | ![Varordakan Tester logo assembling from dots](https://raw.githubusercontent.com/Vaache/morph_logo/main/doc/media/varordakan.gif) |
+| Logo: [Join Tour](https://jointour.am/login) | Logo: [Varordakan Tester](https://varordakan.am) |
 
 ```dart
 MorphLogo.sequence(
