@@ -1,6 +1,6 @@
 name: morph_logo
 description: Animate any SVG logo out of dots. A swirling cloud draws the outline, pours into each shape in its own colour and dissolves into the real logo. Made for splash screens.
-version: 0.1.0
+version: 0.1.1
 homepage: https://github.com/Vaache/morph_logo
 repository: https://github.com/Vaache/morph_logo
 issue_tracker: https://github.com/Vaache/morph_logo/issues

@@ -1,3 +1,7 @@
+## 0.1.1
+
+- README: logo credits renamed to Join Tour and Varordakan Tester.
+
 ## 0.1.0
 
 Initial release.

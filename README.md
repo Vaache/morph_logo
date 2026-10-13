@@ -27,7 +27,7 @@ dot engine. No shaders, no `flutter_svg`, no other dependencies.
 
 ```yaml
 dependencies:
-  morph_logo: ^0.1.0
+  morph_logo: ^0.1.1
 ```
 
 ```dart
